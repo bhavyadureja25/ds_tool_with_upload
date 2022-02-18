@@ -15,4 +15,4 @@ seaborn==0.11.2
 gunicorn==20.1.0
 numpy==1.21.5
 tzwhere==3.0.3
-rtools==0.2.12
+rdtools==2.1.3
