@@ -8,8 +8,12 @@ matplotlib==3.3.3
 pecos==0.2.0
 pandas==1.4.0
 plotly==5.5.0
+pvlib==0.9.0
+DateTime==4.4
+scikit-learn==1.0.2
 seaborn==0.11.2
 gunicorn==20.1.0
 numpy==1.21.5
 Flask==2.0.2
 Flask-Compress==1.10.1
+tzwhere==3.0.3
